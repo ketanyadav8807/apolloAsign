@@ -1,0 +1,22 @@
+{
+    "appointments":[
+        {
+            "id": 1,
+            "Category": "Dermatology",
+            "time": "10:00 AM - 12:00 PM",
+            "fee": "500"
+        },
+        {
+            "id": 1,
+            "Category": "Ophthalmology",
+            "time": "12:00 PM - 2:00 PM",
+            "fee": "1500"
+        },
+        {
+            "id": 1,
+            "Category": "Neurologist",
+            "time": "10:00 AM - 12:00 PM",
+            "fee": "2500"
+        }
+    ]
+}
